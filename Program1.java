@@ -6,8 +6,9 @@ class Program1 extends ConsoleProgram {
   */
   
   public void run() {
-    // your code goes here
-    
-    
+    // Declare variables
+    String FirstName;
+    FirstName = "Hazel";
+    System.out.println ("My name is: " + FirstName);
   }
 }
